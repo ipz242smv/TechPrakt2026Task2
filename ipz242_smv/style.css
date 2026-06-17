@@ -28,3 +28,35 @@ main {
   flex-direction: column;
   gap: 24px;
 }
+
+.news-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  display: flex;
+  gap: 16px;
+}
+
+.news-card img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.news-content {
+  padding: 16px;
+}
+
+.news-content h2 {
+  font-size: 18px;
+  margin-bottom: 8px;
+  color: #2c3e50;
+}
+
+.news-content p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #555;
+}
