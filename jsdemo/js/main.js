@@ -2,41 +2,41 @@ let arr = [
     {
         "name": "Petro",
         "age": 19,
-        "title": "description"
+        "title": "Frontend Developer"
     },
     {
         "name": "Serhii",
-        "age": 19,
-        "title": "description"
+        "age": 21,
+        "title": "Backend Developer"
     },
     {
-        "name": "Serhii",
-        "age": 19,
-        "title": "description"
+        "name": "Olena",
+        "age": 22,
+        "title": "UI/UX Engineer"
     }, {
-        "name": "Serhii",
-        "age": 19,
-        "title": "description"
+        "name": "Dmytro",
+        "age": 20,
+        "title": "DevOps Engineer"
     }, {
-        "name": "Serhii",
+        "name": "Natalia",
         "age": 19,
-        "title": "description"
+        "title": "QA Engineer"
     },{
-        "name": "Serhii",
-        "age": 19,
-        "title": "description"
+        "name": "Vasyl",
+        "age": 23,
+        "title": "Data Analyst"
     },{
-        "name": "Serhii",
-        "age": 19,
-        "title": "description"
+        "name": "Iryna",
+        "age": 24,
+        "title": "Project Manager"
     },{
-        "name": "Serhii",
+        "name": "Maksym",
         "age": 19,
-        "title": "description"
+        "title": "Mobile Developer"
     },{
-        "name": "Serhii",
-        "age": 19,
-        "title": "description"
+        "name": "Oksana",
+        "age": 20,
+        "title": "Security Analyst"
     },
 ];
 
